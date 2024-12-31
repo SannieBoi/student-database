@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702244137 source:c:\users\krist\onedrive\desktop\codeblocks projects\baza ucenika\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+
